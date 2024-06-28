@@ -7,9 +7,8 @@
 
 
 
-- 💼  Driven Data Analyst 
-- 💬 Ask me about **SQL, Excel , Power Bi**
-- 🎓 Bachelor's in Business Administration 
+- 💼 **Driven Data Analyst** 
+- 💬 Ask me about **SQL, Excel , Power Bi** 
 - 📫 How to reach me **Bigyan.panda123@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
@@ -30,9 +29,9 @@ Let's Connect!
 
 ## Projects
 
-- [Business Insights 360](https://www.linkedin.com/posts/shibin-r-b8a9b4283_business-insight-360-dashboard-activity-7193267119982010369-7N_q?utm_source=share&utm_medium=member_desktop): A thorough analysis project delivering comprehensive insights into business operations.
+- [Coffee Shop Sales](https://www.linkedin.com/feed/update/urn:li:activity:7211999522741178368/):  Analyzed the data from H1 2023 with Pivot Tables to visualize patterns and trends, and provided the business with insights and recommendations.
 
-- [Sales And Financial Analytical Report ](https://www.linkedin.com/posts/shibin-r-b8a9b4283_sales-and-financial-analytics-report-of-atliq-activity-7173170667557695489-961Q?utm_source=share&utm_medium=member_desktop): A comprehensive report leveraging advanced Excel techniques to deliver in-depth sales and finance analytics for Atliq Hardware.
+- [Restaurant Operations Analysis ](https://www.linkedin.com/feed/update/urn:li:activity:7209083293038743553/): Analyzed the data using Joins, Group By, Having Clause, Subquery to identify trends and generate reports on dishes, orders, and Customer spending.
 
-- [Shield Insurance Analysis ](https://www.linkedin.com/feed/update/urn:li:activity:7190552883354902530/): A comprehensive analysis of Shield Insurance, examining general trends, age group segmentation, and sales modes.
+
    
