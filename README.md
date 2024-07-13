@@ -33,5 +33,7 @@ Let's Connect!
 
 - [Restaurant Operations Analysis ](https://www.linkedin.com/feed/update/urn:li:activity:7209083293038743553/): Analyzed the data using Joins, Group By, Having Clause, Subquery to identify trends and generate reports on dishes, orders, and Customer spending.
 
+- [Super Store Sales Dashbaord ](https://www.linkedin.com/feed/update/urn:li:activity:7217724434567098369/): Utilized data analysis to create an interactive dashboard with key KPIs, generate insightful visualizations, predict 15-day sales forecasts, and deliver actionable recommendations for enhancing sales performance.
+
 
    
