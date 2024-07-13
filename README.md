@@ -7,9 +7,10 @@
 
 
 
-- 💼 **Driven Data Analyst** 
+- 📊 **Driven Data Analyst** 
 - 💬 Ask me about **SQL, Excel , Power Bi** 
 - 📫 How to reach me **Bigyan.panda123@gmail.com**
+- 💼 Portfolio Website **https://bigyanduttpanda1.my.canva.site/** 
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
 
