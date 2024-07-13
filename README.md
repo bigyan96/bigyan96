@@ -34,7 +34,7 @@ Let's Connect!
 
 - [Restaurant Operations Analysis ](https://www.linkedin.com/feed/update/urn:li:activity:7209083293038743553/): Analyzed the data using Joins, Group By, Having Clause, Subquery to identify trends and generate reports on dishes, orders, and Customer spending.
 
-- [Super Store Sales Dashbaord ](https://www.linkedin.com/feed/update/urn:li:activity:7217724434567098369/): Developed an interactive Power BI dashboard that identified key KPIs, applied time series analysis for 15-day sales forecasting, and provided actionable insights to support business decision-making.
+- [Super Store Sales Dashboard ](https://www.linkedin.com/feed/update/urn:li:activity:7217724434567098369/): Developed an interactive Power BI dashboard that identified key KPIs, applied time series analysis for 15-day sales forecasting, and provided actionable insights to support business decision-making.
 
 
    
